@@ -6,9 +6,9 @@ import { MessageCircle, Phone, Shield, Users, Clock, CheckCircle, Star, ArrowRig
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 
-const whatsappNumber = "5513936283620"
+const whatsappNumber = "5551942695"
 const whatsappMessage = "Atendimento%20"
-const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`
+const whatsappUrl = `https://wa.me/551151942695?text=Atendimento.`
 
 export default function PaschoalottoSite() {
   const [isVisible, setIsVisible] = useState(false)
